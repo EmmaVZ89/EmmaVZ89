@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Angular 
 - 👯 I’m looking to collaborate on any project with the technologies that I know. 
 - 🤔 I’m looking for help with mentoring and tutorships. 
-- 💬 Ask me about JavaScript, TypeScript, PHP, HTML5 and CSS3. 
+- 💬 Ask me about JavaScript, TypeScript, Nodejs-Express, PHP-Slim, HTML5 and CSS3. 
 - 📫 How to reach me: emmavz@live.com 
 
 <p align="center">
