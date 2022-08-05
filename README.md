@@ -27,7 +27,7 @@
 
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=emmavz89&show_icons=true&locale=en&layout=compact&theme=nightowl&card_width=445" alt="emmavz89" />
-<img src="https://github-readme-stats.vercel.app/api?username=emmavz89&show_icons=true&locale=en&theme=nightowl" alt="emmavz89" />
+<img src="https://github-readme-stats.vercel.app/api?username=emmavz89&show_icons=true&locale=en&theme=nightowl&hide=css" alt="emmavz89" />
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=emmavz89&&theme=nightowl" alt="emmavz89" />
 </p>
 
