@@ -31,6 +31,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=emmavz89&&theme=nightowl" alt="emmavz89" />
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EmmaVZ89&theme=noctis-minimus)    
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=EmmaVZ89&theme=noctis-minimus)    
 
 
