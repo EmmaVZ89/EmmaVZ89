@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/EmmaVZ89)  
 <h1 align="center">Hi there 👋, my name is Emmanuel</h1>
-<h3 align="center">A passionate Fullstack developer from Argentina.</h3>
-<p align="center"> <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="emmavz89" /> </p>
+<h3 align="center">I am a University Technician in Programming. Fullstack developer from Argentina.</h3>
+<p align="center"> <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="emmavz89" /> </p>
 <p align="center">I made some projects to practice my knowdledge adcquired in Universidad Tecnologica Nacional (UTN), in which I continue studying. Also I made some projects to my customers, to the begining only I made statics web sites but now I making sites totally dinamics, with its Frontend and Backend.</p>
 
 
