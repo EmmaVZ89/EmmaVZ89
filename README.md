@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, my name is Emmanuel</h1>
 <h3 align="center">I am a University Technician in Programming. Fullstack developer from Argentina.</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="emmavz89" /> </p>
-<p align="center">I made some projects to practice my knowdledge adcquired in Universidad Tecnologica Nacional (UTN), in which I continue studying. Also I made some projects to my customers, to the begining only I made statics web sites but now I making sites totally dinamics, with its Frontend and Backend.</p>
+<p align="center">I've been actively applying the knowledge acquired at Universidad Tecnológica Nacional (UTN). Alongside that, I've completed projects for clients, starting with static websites and progressing to dynamic sites with both Frontend and Backend development. Now, at Mymtec, I refine my skills on diverse projects, grateful for the hands-on experience and collaboration. Excited to contribute to Mymtec's success, deliver innovative solutions, and continue personal growth.</p>
 
 
 
@@ -48,8 +48,8 @@
 
 - 👯 I’m looking to collaborate on any project with the technologies that I know. 
 - 🤔 I’m looking for help with mentoring and tutorships. 
-- 💬 Ask me about Angular, Ionic, JavaScript, TypeScript, Nodejs-Express, PHP-Slim, HTML5 and CSS3. 
-- 📫 How to reach me: emmavz@live.com 
+- 💬 Ask me about ASP .NET, Angular, Ionic, JavaScript, TypeScript, Nodejs-Express, PHP-Slim, HTML5 and CSS3. 
+- 📫 How to reach me: DM 
 
 <p align="center">
 <a href="https://github.com/EmmaVZ89" target="_blank" rel="noreferrer"> <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-orange.png" alt="github" width="40" height="40"/> </a>
