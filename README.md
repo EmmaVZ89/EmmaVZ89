@@ -1,9 +1,27 @@
 <p align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHqlPSdNtGvXQ/profile-displaybackgroundimage-shrink_350_1400/0/1712875196252?e=1718236800&v=beta&t=ZZVN_iYqhjh-YrvVlbLqkTVtfQpsKPCt1tpDfeqAdGQ" alt="emmavz89" /> </p>
-<h1 align="center">Hi there 👋, my name is Emmanuel</h1>
-<h3 align="center">I am a University Technician in Programming. Fullstack developer from Argentina.</h3>
-<p align="center">I've been actively applying the knowledge acquired at Universidad Tecnológica Nacional (UTN). Alongside that, I've completed projects for clients, starting with static websites and progressing to dynamic sites with both Frontend and Backend development. Now, at Mymtec, I refine my skills on diverse projects, grateful for the hands-on experience and collaboration. Excited to contribute to Mymtec's success, deliver innovative solutions, and continue personal growth.</p>
+<h1 align="center">Hi👋, my name is Emmanuel</h1>
+<h3 align="center">I'm a Web Developer with knowledge in a variety of technologies.</h3>
 
+My knowledge covers:
 
+- .NET Framework and C# for efficient and scalable application development.
+- ASP.NET MVC, for dynamic web development.
+- MySQL and SQL Server for robust database management.
+- Angular and Ionic Framework for building powerful and cross-platform applications.
+- AJAX and jQuery for interactive and responsive user interfaces.
+- HTML5, CSS3, and JavaScript for modern and stylish web design.
+- TypeScript for enhanced development with strong typing support.
+
+Other technologies I have used:
+- Languages: C and PHP
+- Databases: Firebase and MongoDB
+- Frameworks: Ionic
+- Servers and APIs: Node.js - Express and PHP - Slim.
+- Markup and Styling: Bootstrap and Angular Material.
+- Data Visualization: Chart.js.
+- Others: Git, Linux.
+
+If you require a developer with these skills, feel free to get in touch!</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -11,7 +29,7 @@
 
 <p align="center" color="green">
   <!-- FRAMEWORK -->
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+ 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
   <img src="https://www.arvixe.com/images/landing_pages/net_framework_service_pack_1_hosting.png" alt="dotnet" width="40" height="40"/>
   
@@ -45,17 +63,9 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
-- 👯 I’m looking to collaborate on any project with the technologies that I know. 
-- 🤔 I’m looking for help with mentoring and tutorships. 
-- 💬 Ask me about ASP .NET, Angular, Ionic, JavaScript, TypeScript, Nodejs-Express, PHP-Slim, HTML5 and CSS3. 
-- 📫 How to reach me: DM 
-
 <p align="center">
 <a href="https://github.com/EmmaVZ89" target="_blank" rel="noreferrer"> <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-orange.png" alt="github" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/emmanuel-zelarayan/" target="_blank" rel="noreferrer"> <img src="https://sapienx.net/wp-content/uploads/2015/11/Linkedin-PNG-HD.png" alt="linkedin" width="40" height="40"/> </a>
-<a href="https://codepen.io/Emmavz" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" alt="codepen" width="40" height="40"/> </a>
-<a href="https://www.codewars.com/users/emmavz" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" alt="codewars" width="40" height="40"/> </a> 
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EmmaVZ89&column=8&margin-w=15&margin-h=15&no-bg=truea&theme=chalk&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
