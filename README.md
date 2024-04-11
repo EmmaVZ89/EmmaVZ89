@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQExCIIgCZmySw/profile-displaybackgroundimage-shrink_350_1400/0/1712792527962?e=1718236800&v=beta&t=8d9Mqn5zY1Cy1AqUult23UGLUS46N3m-0vl9brQRH9o" alt="emmavz89" /> </p>
+<p align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHqlPSdNtGvXQ/profile-displaybackgroundimage-shrink_350_1400/0/1712875196252?e=1718236800&v=beta&t=ZZVN_iYqhjh-YrvVlbLqkTVtfQpsKPCt1tpDfeqAdGQ" alt="emmavz89" /> </p>
 <h1 align="center">Hi there 👋, my name is Emmanuel</h1>
 <h3 align="center">I am a University Technician in Programming. Fullstack developer from Argentina.</h3>
 <p align="center">I've been actively applying the knowledge acquired at Universidad Tecnológica Nacional (UTN). Alongside that, I've completed projects for clients, starting with static websites and progressing to dynamic sites with both Frontend and Backend development. Now, at Mymtec, I refine my skills on diverse projects, grateful for the hands-on experience and collaboration. Excited to contribute to Mymtec's success, deliver innovative solutions, and continue personal growth.</p>
